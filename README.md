@@ -1,2 +1,5 @@
 # Basic-news-website
-basic PHP, no OOP, no MVC. 
+Backend: PHP, mySql.
+Frontend: spectre.css, boostrap, fontawesome.
+link: qnamcoder.cf
+
