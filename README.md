@@ -1,4 +1,4 @@
-# Basic news website
+# Basic news website in PHP
 
 <div>
   <p>+ Backend: PHP, mySql.</p>
