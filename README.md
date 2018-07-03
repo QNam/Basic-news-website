@@ -10,7 +10,7 @@
 
 ## Image
 <img src="user guide/Home-page.png">
-<p align="center">*Homepage*</p>
+<p align="center">_Homepage_</p>
 <br><br>
 <img src="user guide/in-category.png">
 <p align="center">*In category</p>
