@@ -11,45 +11,42 @@
 ## Image
 <img src="user guide/Home-page.png">
 
-<p align="center">Homepage</p>
+<p align="center"><i> Homepage</i> </p>
 <br><br>
-<img src="user guide/in-category.png">
-<p align="center">In categor</p>
-
 <p align="center"> <i>In category</i></p>
 <br><br>
 <img src="user guide/in-category.png">
-<p align="center"> >*In category*</p>
+<p align="center"><i> In category</i> </p>
 
 <br><br>
 <img src="user guide/in-post.png">
-<p align="center">In post</p>
+<p align="center"><i> In post</i> </p>
 <br><br>
 <img src="user guide/admin-login-page.png">
-<p align="center">Admin login page</p>
+<p align="center"><i> Admin login page</i> </p>
 <br><br>
 <img src="user guide/list-post.png">
-<p align="center">List of post</p>
+<p align="center"><i> List of post</i> </p>
 
 <br><br>
 <img src="user guide/add-post.png">
-<p align="center">Add post</p>
+<p align="center"><i> Add post</i> </p>
 
 <br><br>
 <img src="user guide/add-image.png">
-<p align="center">Add image</p>
+<p align="center"><i> Add image</i> </p>
 
 <br><br>
 <img src="user guide/list-image.png">
-<p align="center">List image</p>
+<p align="center"><i> List image</i> </p>
 
 <br><br>
 <img src="user guide/category.png">
-<p align="center">Category managemrnt</p>
+<p align="center"><i> Category managemrnt</i> </p>
 
 
 <br><br>
 <img src="user guide/member.png">
-<p align="center">Member management</p>
+<p align="center"><i> Member management</i> </p>
 
 
