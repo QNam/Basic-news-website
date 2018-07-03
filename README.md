@@ -13,8 +13,6 @@
 
 <p align="center"><i> Homepage</i> </p>
 <br><br>
-<p align="center"> <i>In category</i></p>
-<br><br>
 <img src="user guide/in-category.png">
 <p align="center"><i> In category</i> </p>
 
