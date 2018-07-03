@@ -10,10 +10,10 @@
 
 ## Image
 <img src="user guide/Home-page.png">
-<p align="center">_Homepage_</p>
+<p align="center"> > _Homepage_</p>
 <br><br>
 <img src="user guide/in-category.png">
-<p align="center">*In category</p>
+<p align="center"> > *In category*</p>
 <br><br>
 <img src="user guide/in-post.png">
 <p align="center">*In post*</p>
